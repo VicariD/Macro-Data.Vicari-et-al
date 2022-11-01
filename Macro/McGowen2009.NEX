@@ -1,0 +1,116 @@
+#NEXUS
+[written Fri Nov 30 14:19:23 GMT 2018 by Mesquite  version 3.5 (build 888) at JM66941/150.204.65.65]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=94;
+	TAXLABELS
+		Su_scrofa Bo_taurus Hi_amphibius He_liberiensis De_tropicalis De_delphis De_capensis Tu_truncatus Tu_aduncus St_coeruleoalba St_clymene St_frontalis St_longirostris La_hosei St_attenuata Sousa_teuszii Sousa_chinensis Sousa_plumbea So_fluviatilis So_guianensis St_bredanensis Fe_attenuata Gl_melas Gl_macrorhynchus Pe_electra Ps_crassidens Gr_griseus Orcaella_brevirostris Orcaella_heinsohni Li_peronii Li_borealis La_obscurus La_obliquidens La_cruciger La_australis Ce_heavisidii Ce_hectori Ce_eutropia Ce_commersonii La_albirostris La_acutus Or_orca Ph_sinus Ph_spinipinnis Au_dioptrica Ph_phocoena Ph_dalli Ne_phocaenoides De_leucas Mo_monoceros In_geoffrensis Po_blainvillei Li_vexillifer Me_layardii Me_carlhubbsi Me_bowdoini Me_traversii Me_ginkgodens Me_europaeus Me_mirus Me_densirostris Me_perrini Me_grayi Me_peruvianus Me_stejnegeri Me_hectori Me_bidens In_pacificus Hy_planifrons Hy_ampullatus Zi_cavirostris Ta_shepherdi Be_bairdii Be_arnuxii Pl_minor Pl_gangetica Ph_macrocephalus Ko_breviceps Ko_simus Me_novaeangliae Ba_physalus Es_robustus Ba_musculus Ba_borealis Ba_brydei Ba_edeni Ba_omurai Ba_bonaerensis Ba_acutorostrata Ca_marginata Eu_australis Eu_glacialis Eu_japonica Ba_mysticetus 
+	;
+
+END;
+
+
+BEGIN TREES;
+	Title 'Trees from "McGowen2009_polytomies.nex"';
+	ID 01675f4ea2d93;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Su_scrofa,
+[1] 		2 Bo_taurus,
+[2] 		3 Hi_amphibius,
+[3] 		4 He_liberiensis,
+[4] 		5 De_tropicalis,
+[5] 		6 De_delphis,
+[6] 		7 De_capensis,
+[7] 		8 Tu_truncatus,
+[8] 		9 Tu_aduncus,
+[9] 		10 St_coeruleoalba,
+[10] 		11 St_clymene,
+[11] 		12 St_frontalis,
+[12] 		13 St_longirostris,
+[13] 		14 La_hosei,
+[14] 		15 St_attenuata,
+[15] 		16 Sousa_teuszii,
+[16] 		17 Sousa_chinensis,
+[17] 		18 Sousa_plumbea,
+[18] 		19 So_fluviatilis,
+[19] 		20 So_guianensis,
+[20] 		21 St_bredanensis,
+[21] 		22 Fe_attenuata,
+[22] 		23 Gl_melas,
+[23] 		24 Gl_macrorhynchus,
+[24] 		25 Pe_electra,
+[25] 		26 Ps_crassidens,
+[26] 		27 Gr_griseus,
+[27] 		28 Orcaella_brevirostris,
+[28] 		29 Orcaella_heinsohni,
+[29] 		30 Li_peronii,
+[30] 		31 Li_borealis,
+[31] 		32 La_obscurus,
+[32] 		33 La_obliquidens,
+[33] 		34 La_cruciger,
+[34] 		35 La_australis,
+[35] 		36 Ce_heavisidii,
+[36] 		37 Ce_hectori,
+[37] 		38 Ce_eutropia,
+[38] 		39 Ce_commersonii,
+[39] 		40 La_albirostris,
+[40] 		41 La_acutus,
+[41] 		42 Or_orca,
+[42] 		43 Ph_sinus,
+[43] 		44 Ph_spinipinnis,
+[44] 		45 Au_dioptrica,
+[45] 		46 Ph_phocoena,
+[46] 		47 Ph_dalli,
+[47] 		48 Ne_phocaenoides,
+[48] 		49 De_leucas,
+[49] 		50 Mo_monoceros,
+[50] 		51 In_geoffrensis,
+[51] 		52 Po_blainvillei,
+[52] 		53 Li_vexillifer,
+[53] 		54 Me_layardii,
+[54] 		55 Me_carlhubbsi,
+[55] 		56 Me_bowdoini,
+[56] 		57 Me_traversii,
+[57] 		58 Me_ginkgodens,
+[58] 		59 Me_europaeus,
+[59] 		60 Me_mirus,
+[60] 		61 Me_densirostris,
+[61] 		62 Me_perrini,
+[62] 		63 Me_grayi,
+[63] 		64 Me_peruvianus,
+[64] 		65 Me_stejnegeri,
+[65] 		66 Me_hectori,
+[66] 		67 Me_bidens,
+[67] 		68 In_pacificus,
+[68] 		69 Hy_planifrons,
+[69] 		70 Hy_ampullatus,
+[70] 		71 Zi_cavirostris,
+[71] 		72 Ta_shepherdi,
+[72] 		73 Be_bairdii,
+[73] 		74 Be_arnuxii,
+[74] 		75 Pl_minor,
+[75] 		76 Pl_gangetica,
+[76] 		77 Ph_macrocephalus,
+[77] 		78 Ko_breviceps,
+[78] 		79 Ko_simus,
+[79] 		80 Me_novaeangliae,
+[80] 		81 Ba_physalus,
+[81] 		82 Es_robustus,
+[82] 		83 Ba_musculus,
+[83] 		84 Ba_borealis,
+[84] 		85 Ba_brydei,
+[85] 		86 Ba_edeni,
+[86] 		87 Ba_omurai,
+[87] 		88 Ba_bonaerensis,
+[88] 		89 Ba_acutorostrata,
+[89] 		90 Ca_marginata,
+[90] 		91 Eu_australis,
+[91] 		92 Eu_glacialis,
+[92] 		93 Eu_japonica,
+[93] 		94 Ba_mysticetus;
+	TREE UNTITLED = (1:72.09255935,(2:66.52260797,((3:6.212836474,4:6.212836474):49.12186968,(((((((((((((((5:1.306331498,(6:0.786677177,7:0.786677177):0.5196543211):0.8587876204,(((8:1.554340299,9:1.554340299):0.2311832633,(10:1.164766418,11:1.164766418):0.6207571445):0.1302674475,12:1.91579101):0.249328109):1.3510614,((13:2.765721561,14:2.765721561):0.3925593186,15:3.158280879):0.3578996391):0.3249322232,(16:1.920556379,(17:1.82055638,18:1.82055638):0.1):1.920556371):3.11434417,(19:1.960272742,20:1.960272742):4.995184169):1.358513201,((21:7.296323823,(((22:2.897198843,((23:0.6696590668,24:0.6696590668):1.47504602,25:2.144705087):0.7524937568):0.8283971513,26:3.725595995):0.5108542258,27:4.236450221):3.059873602):0.6533476413,(28:3.974835732,29:3.974835732):3.974835732):0.3642986485):0.4830433499,(((30:1.315858431,31:1.315858431):2.995269857,((32:1.939522269,33:1.939522269):1.256264248,(((34:1.095257358,35:1.095257358):1.230628809,36:2.325886167):0.3788928399,(37:1.869559834,(38:0.8556223789,39:0.8556223789):1.013937455):0.8352191729):0.4910075101):1.115341771):3.194245777,40:7.505374065):1.291639398):0.522758901,41:9.319772363):0.6997632006,42:10.01953556):8.551320209,((((43:4.781557074,(44:3.907729353,45:3.907729353):0.8738277215):2.063152809,(46:3.679226176,47:3.679226176):3.165483707):1.476510417,48:8.3212203):7.059455206,(49:6.236050403,50:6.236050403):9.144625104):3.190180266):6.018559287,((51:16.70433239,52:16.70433239):5.38952192,53:22.09385431):2.495560751):6.531910244,(((((((((54:8.533962548,55:8.533962548):2.202887407,(56:6.404669942,57:6.404669942):4.332180012):2.733222254,(((58:8.856016673,59:8.856016673):1.021900988,60:9.877917662):1.934203274,((61:8.350729723,((62:5.85910719,63:5.85910719):1.642552337,(64:5.762705193,65:5.762705193):1.738954335):0.849070195):1.539536339,66:9.890266062):1.921854874):1.657951272):0.9783392947,67:14.4484115):1.445460302,68:15.89387181):1.189458073,(69:6.848531204,70:6.848531204):10.23479868):1.460471579,71:18.54380146):1.722945336,72:20.26674679):1.683425394,(73:2.880620317,74:2.880620317):19.06955187):9.171153116):1.217771482,(75:0.5122703767,76:0.5122703767):31.82682641):2.255632379,(77:23.93201372,(78:9.249390673,79:9.249390673):14.68262305):10.66271545):1.621671114,((((((80:7.045849421,81:7.045849421):1.907676974,82:8.953526395):1.115317245,(83:8.576293877,((84:3.24507633,(85:2.204314751,86:2.204314751):1.040761579):3.603708881,87:6.848785211):1.727508666):1.492549763):3.570114511,(88:4.872574532,89:4.872574532):8.766383619):8.747096622,90:22.38605477):6.383613216,((91:0.7492768954,(92:0.6614923218,93:0.6614923218):0.08778457367):4.621131318,94:5.370408214):23.39925978):7.446732291):19.11830587):11.18790182):5.56995138);
+
+END;
+
